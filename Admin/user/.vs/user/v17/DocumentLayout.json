@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HONG DIEM\\Desktop\\adminnnnn\\Admin\\user\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{083289C9-F2AE-49E3-BF15-FEBD934456F7}|user\\user.csproj|c:\\users\\hong diem\\desktop\\adminnnnn\\admin\\user\\user\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083289C9-F2AE-49E3-BF15-FEBD934456F7}|user\\user.csproj|solutionrelative:user\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083289C9-F2AE-49E3-BF15-FEBD934456F7}|user\\user.csproj|c:\\users\\hong diem\\desktop\\adminnnnn\\admin\\user\\user\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083289C9-F2AE-49E3-BF15-FEBD934456F7}|user\\user.csproj|solutionrelative:user\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083289C9-F2AE-49E3-BF15-FEBD934456F7}|user\\user.csproj|c:\\users\\hong diem\\desktop\\adminnnnn\\admin\\user\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083289C9-F2AE-49E3-BF15-FEBD934456F7}|user\\user.csproj|solutionrelative:user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083289C9-F2AE-49E3-BF15-FEBD934456F7}|user\\user.csproj|c:\\users\\hong diem\\desktop\\adminnnnn\\admin\\user\\user\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{083289C9-F2AE-49E3-BF15-FEBD934456F7}|user\\user.csproj|solutionrelative:user\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083289C9-F2AE-49E3-BF15-FEBD934456F7}|user\\user.csproj|c:\\users\\hong diem\\desktop\\adminnnnn\\admin\\user\\user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083289C9-F2AE-49E3-BF15-FEBD934456F7}|user\\user.csproj|solutionrelative:user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083289C9-F2AE-49E3-BF15-FEBD934456F7}|user\\user.csproj|c:\\users\\hong diem\\desktop\\adminnnnn\\admin\\user\\user\\views\\taikhoan\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083289C9-F2AE-49E3-BF15-FEBD934456F7}|user\\user.csproj|solutionrelative:user\\views\\taikhoan\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HONG DIEM\\Desktop\\adminnnnn\\Admin\\user\\user\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "user\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HONG DIEM\\Desktop\\adminnnnn\\Admin\\user\\user\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "user\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T14:23:33.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HONG DIEM\\Desktop\\adminnnnn\\Admin\\user\\user\\appsettings.json",
+              "RelativeDocumentMoniker": "user\\appsettings.json",
+              "ToolTip": "C:\\Users\\HONG DIEM\\Desktop\\adminnnnn\\Admin\\user\\user\\appsettings.json",
+              "RelativeToolTip": "user\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T14:00:22.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HONG DIEM\\Desktop\\adminnnnn\\Admin\\user\\user\\Program.cs",
+              "RelativeDocumentMoniker": "user\\Program.cs",
+              "ToolTip": "C:\\Users\\HONG DIEM\\Desktop\\adminnnnn\\Admin\\user\\user\\Program.cs",
+              "RelativeToolTip": "user\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:00:21.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\HONG DIEM\\Desktop\\adminnnnn\\Admin\\user\\user\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "user\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\HONG DIEM\\Desktop\\adminnnnn\\Admin\\user\\user\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "user\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:56:56.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\HONG DIEM\\Desktop\\adminnnnn\\Admin\\user\\user\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "user\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "ToolTip": "C:\\Users\\HONG DIEM\\Desktop\\adminnnnn\\Admin\\user\\user\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "RelativeToolTip": "user\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T12:38:02.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "C:\\Users\\HONG DIEM\\Desktop\\adminnnnn\\Admin\\user\\user\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "user\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "C:\\Users\\HONG DIEM\\Desktop\\adminnnnn\\Admin\\user\\user\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "user\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwCAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:35:10.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
